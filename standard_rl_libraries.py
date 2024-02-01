@@ -25,7 +25,7 @@ for time_step in range(1000):
 """
 
 
-# 
+# In order to get the lunar lander environment to work, you will need to run "conda install -c conda-forge box2d-py"
 env = gym.make("LunarLander-v2", continuous=True, gravity=-10.0, enable_wind=False, wind_power=15.0, turbulence_power=1.5, render_mode='human')
 model = PPO("MlpPolicy", env, verbose=1)
 
