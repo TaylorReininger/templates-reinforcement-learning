@@ -11,6 +11,8 @@ https://learn.microsoft.com/en-us/cpp/build/walkthrough-build-debug-wsl2?view=ms
 sudo apt update
 sudo apt upgrade
 sudo apt install g++ gdb make ninja-build rsync zip
+pip install swig
 
+pip install -r requirements.txt
 
 
