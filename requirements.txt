@@ -1,4 +1,5 @@
 gymnasium[box2d]
 matplotlib
+moviepy
 numpy
 stable-baselines3[extra]
