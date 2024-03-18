@@ -1,6 +1,6 @@
 # Specifics to this repository
 *.zip
-
+training_runs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
