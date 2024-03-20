@@ -1,4 +1,5 @@
-stable_baselines3
-gymnasium
-gymnasium[classic-control]
-opencv-python
+gymnasium[box2d]
+matplotlib
+moviepy
+numpy
+stable-baselines3[extra]
